@@ -1,4 +1,5 @@
 # Amazon-products-Sales-Analysis-PowerBI-project
+## Project Summary
 This project delivers an interactive Power BI dashboard designed to analyze a comprehensive e-commerce dataset spanning some major categories such as: Audio Video, Camera, Car Accessories, etc. By transforming raw data into a dynamic visual experience, the dashboard provides actionable insights into product pricing strategies, customer review volumes, order trends over time, and shipment distributions.
 
 The project focuses on answering key business questions, such as:
